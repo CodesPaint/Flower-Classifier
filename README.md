@@ -18,7 +18,7 @@
 
 This Project is developed by:
 
-V Y Surya Mallikarjun	(121710317054@gitam.in)
-Priti Hemnani		(hemnanipriti00000@gmail.com)
-Abhishek Soy		(soyabhishek81@gmail.com)
-Ravi Kumar Patel	(ravi.patel070597@gmail.com)
+V Y Surya Mallikarjun	(121710317054@gitam.in)  \
+Priti Hemnani		(hemnanipriti00000@gmail.com)   \
+Abhishek Soy		(soyabhishek81@gmail.com)   \
+Ravi Kumar Patel	(ravi.patel070597@gmail.com)  \
