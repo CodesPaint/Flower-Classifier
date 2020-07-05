@@ -9,7 +9,7 @@
  
   Dataset used in project link : https://drive.google.com/file/d/1pmGSSgdNm7s_0dgf3WkivX_qje48rOs1/view?usp=sharing
  
-  This dataset is extracted and arranged from Kaggle
+  This dataset is extracted and arranged from
   Kaggle Link: https://www.kaggle.com/alxmamaev/flowers-recognition
  
 """
